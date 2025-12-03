@@ -3,3 +3,8 @@ numpy~=2.3.5
 openpyxl~=3.1.5
 scipy~=1.16.3
 python-telegram-bot~=22.5
+numpy
+openpyxl
+pandas
+python-telegram-bot
+scipy
